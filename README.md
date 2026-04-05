@@ -1,2 +1,2 @@
 # automation.mdm
-A centralized repository for managing automation scripts, utilities, and reusable code components for Master Data Management (MDM) processes.
+The repository for managing automation scripts, utilities, and reusable code components for Master Data Management (MDM) processes.
